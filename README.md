@@ -6,7 +6,7 @@
 	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;当前指示值 &nbsp; <span style="color:#000099;">&nbsp;</span><span style="color:#ff6600;">&nbsp;</span> &nbsp; &nbsp;
 </p>
 <p>
-	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;仪表盘种类是半圆，还是超过半圆
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;仪表盘种类是不超过半圆，还是超过半圆
 </p>
 <p>
 	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;大刻度份数和大刻度内小刻度的份数&nbsp;
