@@ -23,4 +23,5 @@
 <p>
 	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;原点下方的Text字体的大小和颜色（默认为黑色，字体大小默认为半径的一定比例）
 </p>
+
 ![Image text](https://github.com/AndroidCloud/PieDashboard/blob/master/DemoImg/417341552863794314.jpg)
