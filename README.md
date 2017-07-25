@@ -11,8 +11,11 @@
 <p>
 	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;大刻度份数和大刻度内小刻度的份数&nbsp;
 </p>
-<p>
-	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;指针和原点的颜色（默认为指针是红色，圆点是灰色）           外弧的色条
+<p style="margin-top:0px; margin-bottom:16px; font-size:16px; line-height:24px">
+	<strong><span style="color:#ff6600">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;指针和原点的颜色（默认为指针是红色，圆点是灰色）&nbsp;</span></strong>
+</p>
+<p style="margin-top:0px; margin-bottom:16px; font-size:16px; line-height:24px">
+	<strong><span style="color:#ff6600">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;外弧的色条，即数据区间</span></strong>
 </p>
 <p>
 	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;刻度和刻度值的颜色（默认为跟随外弧的颜色）   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
