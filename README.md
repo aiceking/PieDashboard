@@ -1,4 +1,5 @@
-# PieDashboard（多功能仪表盘）
+# PieDashboard（多功能仪表盘）  
+实现原理：http://blog.csdn.net/qq_20082063/article/details/76099027
 <p>
 	可设置属性：   &nbsp;
 </p>
